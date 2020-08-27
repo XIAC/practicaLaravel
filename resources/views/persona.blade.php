@@ -1,0 +1,1 @@
+<h1>Formulario Persona {{$nombre}} {{$edad}}</h1>
